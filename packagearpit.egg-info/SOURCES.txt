@@ -1,0 +1,7 @@
+license.txt
+setup.py
+packagearpit/__init__.py
+packagearpit.egg-info/PKG-INFO
+packagearpit.egg-info/SOURCES.txt
+packagearpit.egg-info/dependency_links.txt
+packagearpit.egg-info/top_level.txt
